@@ -1,1 +1,2 @@
 # odin-recipes
+This is my recipe website. Skills showcased will be setting up a repository in GitHub, navigating between files, creating html files, adding pages to the website, adding images, and linking websites from the main page
